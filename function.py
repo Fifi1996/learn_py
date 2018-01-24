@@ -3,6 +3,7 @@
 #python官网查看文档
 #http://docs.python.org/3/library/functions.html#abs
 '''
+
 #求绝对值的函数abs
 print(abs(100))
 print(abs(100))
