@@ -104,6 +104,7 @@ for i,value in enumerate(['A','B','C']):
 请使用迭代查找一个list中最小和最大值，
 并返回一个tuple：
 '''
+
 def findMinMax(l):
    l.sort()
    min=l[0]
