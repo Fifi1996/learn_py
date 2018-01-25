@@ -1,5 +1,6 @@
 #### learn_py
-学习廖雪峰老师的python教程笔记
+廖大的python教程
+https://www.liaoxuefeng.com/
 
 ### 工具
 * python v3.5.2
