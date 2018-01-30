@@ -68,7 +68,7 @@ print(obj.x)
 #如果可以直接写：
 sum=obj.x+obj.y
 #就不要写
-sum=getattr(obj.'x')+getattr(obj.'y')
+sum=getattr(obj,'x')+getattr(obj,'y')
 
 #一个正确的用法的例子
 def readImage(fp):
